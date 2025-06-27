@@ -93,21 +93,21 @@ This project is deployed on Render and can also be hosted on platforms such as H
 ## Demonstration
 Video Walkthrough: Link available in documentation/Demo_Video_Link.txt
 Project Report: See documentation/Project_Report.pdf
-Contribution
-Contributions are welcome. To contribute:
+## Contribution
+**Contributions are welcome. To contribute:
+**Fork this repository
+**Create a new branch (git checkout -b feature-name)
+**Commit your changes
+**Push to the branch (git push origin feature-name)
+**Open a pull request
 
-## Fork this repository
-Create a new branch (git checkout -b feature-name)
-Commit your changes
-Push to the branch (git push origin feature-name)
-Open a pull request
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgements
-UCI Machine Learning Repository (Liver Disorder Dataset)
-Libraries: Scikit-learn, Pandas, Matplotlib, Seaborn, Flask
-Development and academic guidance provided during the project lifecycle
+**UCI Machine Learning Repository (Liver Disorder Dataset)
+**Libraries: Scikit-learn, Pandas, Matplotlib, Seaborn, Flask
+**Development and academic guidance provided during the project lifecycle
 
 
 
