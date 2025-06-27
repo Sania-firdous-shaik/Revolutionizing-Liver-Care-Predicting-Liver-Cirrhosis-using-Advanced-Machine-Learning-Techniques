@@ -74,30 +74,29 @@ Before exploring or modifying this project, you should be familiar with the foll
 - Flask Basics: https://www.youtube.com/watch?v=lj4I_CvBnt0  
 
 ## How to Run the Project Locally
-**Clone the Repository**
+1.**Clone the Repository**
 
-```bash
 git clone https://github.com/Sania-firdous-shaik/Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-using-Advanced-Machine-Learning-Techniques
-Create and Activate a Virtual Environment
+2.## Create and Activate a Virtual Environment
 python -m venv venv
 source venv/bin/activate  # For Windows: venv\Scripts\activate
-Install Required Packages
+3.## Install Required Packages
 pip install -r requirements.txt
-Run the Flask Application
+4.## Run the Flask Application
 python app.py
-**Open the Web Application**
+5.## Open the Web Application
 Visit http://127.0.0.1:5000 in your browser.
 
-**Deployment**
+## Deployment
 This project is deployed on Render and can also be hosted on platforms such as Heroku or any cloud provider that supports Python and Flask.
 
-**Demonstration**
+## Demonstration
 Video Walkthrough: Link available in documentation/Demo_Video_Link.txt
 Project Report: See documentation/Project_Report.pdf
 Contribution
 Contributions are welcome. To contribute:
 
-**Fork this repository**
+## Fork this repository
 Create a new branch (git checkout -b feature-name)
 Commit your changes
 Push to the branch (git push origin feature-name)
@@ -105,7 +104,7 @@ Open a pull request
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-**Acknowledgements**
+## Acknowledgements
 UCI Machine Learning Repository (Liver Disorder Dataset)
 Libraries: Scikit-learn, Pandas, Matplotlib, Seaborn, Flask
 Development and academic guidance provided during the project lifecycle
